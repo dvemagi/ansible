@@ -4,7 +4,7 @@
   vars:
     users:
     - username: "dario.vemagi"
-      groups: "adm,wheel,"
+      groups: "adm,wheel,systemd-journal"
     - username: "gianluca.pellegrini"
       groups: "adm,wheel,systemd-journal"
   tasks:
