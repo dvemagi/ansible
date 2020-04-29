@@ -32,9 +32,11 @@ Per macchine già esistenti
 
 Installare **Ansible**
 Installare  **Git**
-
-> #git clone https://github.com/dvemagi/ansible.git
-> #cd ansible/user-create/
-
+```
+ git clone https://github.com/dvemagi/ansible.git
+ cd ansible/user-create/
+```
 A seconda se Amazon Linux o Ubuntu lanciare il comando ansible-playbook
-> #ansible-playbook user-(distri).yaml
+```
+ansible-playbook user-(distri).yaml
+```
