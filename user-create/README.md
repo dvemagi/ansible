@@ -1,7 +1,7 @@
 # Ansible per attivare gli utenti di amministrazione
 
 ### Primo modo di installazione
-Al momento della creazione dell'istanza in advanced detail editare lo user data
+Al momento della creazione dell'istanza in advanced details editare lo user data /
 attenzione ci volgiono circa 3 min affinche gli script finiscano
 
 #### per Amazon Linux
